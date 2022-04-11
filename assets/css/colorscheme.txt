@@ -14,4 +14,4 @@ Current Color Scheme
 #0077b6
 #00b4d8
 #39393a
-#9B9B93 = 
+#9B9B93
