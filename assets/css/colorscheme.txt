@@ -1,9 +1,17 @@
 Colors in the file:
-
-#9fa3a6 = CCDBDC
-#f56a6a = 007EA7
-#3d4449 = 80ced7
+#f67878 = 40A6BF = 03045e
+#f56a6a = 007EA7 = 0077b6
+#f45c5c = 003249 = 0077b6
+#3d4449 = 80ced7 = 00b4d8
+#7f888f = 9ad1d4 = 90e0ef
+#9fa3a6 = CCDBDC = caf0f8
 #ffffff
-#7f888f = 9ad1d4
-#f67878 = 40A6BF
-#f45c5c = 003249
+
+
+
+Current Color Scheme
+#03045e
+#0077b6
+#00b4d8
+#90e0ef
+#caf0f8
