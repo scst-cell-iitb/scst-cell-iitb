@@ -91,7 +91,7 @@ body {
 
 /* Type */
 body, input, select, textarea {
-  color: #90e0ef;
+  color: #39393a;
   font-family: "Open Sans", sans-serif;
   font-size: 13pt;
   font-weight: 400;
@@ -1102,7 +1102,7 @@ input[type="radio"] {
   input[type="checkbox"] + label,
   input[type="radio"] + label {
     text-decoration: none;
-    color: #90e0ef;
+    color: #39393a;
     cursor: pointer;
     display: inline-block;
     font-size: 1em;
@@ -1155,19 +1155,19 @@ input[type="radio"] + label:before {
   border-radius: 100%; }
 
 ::-webkit-input-placeholder {
-  color: #caf0f8 !important;
+  color: #9B9B93 !important;
   opacity: 1.0; }
 
 :-moz-placeholder {
-  color: #caf0f8 !important;
+  color: #9B9B93 !important;
   opacity: 1.0; }
 
 ::-moz-placeholder {
-  color: #caf0f8 !important;
+  color: #9B9B93 !important;
   opacity: 1.0; }
 
 :-ms-input-placeholder {
-  color: #caf0f8 !important;
+  color: #9B9B93 !important;
   opacity: 1.0; }
 
 /* Box */
@@ -1899,7 +1899,7 @@ button,
     -webkit-transform: scaleX(-1);
     -ms-transform: scaleX(-1);
     transform: scaleX(-1);
-    color: #90e0ef;
+    color: #39393a;
     content: '\f002';
     cursor: default;
     display: block;
@@ -2054,7 +2054,7 @@ button,
       text-indent: 7.25em;
       width: 7.25em; }
       #sidebar .toggle:before {
-        color: #90e0ef;
+        color: #39393a;
         margin-left: -0.0625em;
         margin-top: -0.25em;
         font-size: 1.1rem;
@@ -2187,7 +2187,7 @@ button,
 
 /* Footer */
 #footer .copyright {
-  color: #caf0f8;
+  color: #9B9B93;
   font-size: 0.9em; }
   #footer .copyright a {
     color: inherit; }
@@ -2239,7 +2239,7 @@ button,
         -webkit-transition: color 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
         -ms-transition: color 0.2s ease-in-out, -ms-transform 0.2s ease-in-out;
         transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
-        color: #caf0f8;
+        color: #9B9B93;
         content: '\f078';
         position: absolute;
         right: 0; }
@@ -2258,7 +2258,7 @@ button,
   margin: 0.5em 0 0 0;
   padding: 0.5em 0 0 0; }
   #menu > ul > li > ul {
-    color: #caf0f8;
+    color: #9B9B93;
     display: none;
     margin: 0.5em 0 1.5em 0;
     padding-left: 1em; }
