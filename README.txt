@@ -3,6 +3,9 @@ SC/ST Students Cell of IIT Bombay Official Website
 Developed by:
 @thamilthedal
 
+Content by:
+G Naveen
+
 Credits:
 	Website Skeleton Template:
 	Editorial by HTML5 UP
