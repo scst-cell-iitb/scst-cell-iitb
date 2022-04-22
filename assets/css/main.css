@@ -1218,7 +1218,9 @@ input[type="radio"] + label:before {
   position: relative; }
   .image img {
     border-radius: 0.375em;
-    display: block; }
+    display: block; 
+    width: 50%;
+  }
   .image.left, .image.right {
     max-width: 40%; }
     .image.left img, .image.right img {
@@ -1234,9 +1236,9 @@ input[type="radio"] + label:before {
   .image.fit {
     display: block;
     margin: 0 0 2em 0;
-    width: 75%; }
+    width: 100%; }
     .image.fit img {
-      width: 75%; }
+      width: 100%; }
   .image.main {
     display: block;
     margin: 0 0 3em 0;
